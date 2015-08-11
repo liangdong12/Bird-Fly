@@ -1,3 +1,4 @@
 # Bird-Fly
-it's a project about personal page and special for sporting,
-i love :coffee, and :dance
+it's a project about personal page and special for sporting
+
+i love :coffee: :dancer:
